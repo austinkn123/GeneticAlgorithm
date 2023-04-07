@@ -64,14 +64,3 @@ def return_Facilitators():
     return Facilitators
 
 
-
-# for obj in roomList:
-#     print(obj.name, obj.capacity, sep=', ')
-
-# for obj in activityList:
-#     print(obj.name, obj.expectedEnroll, obj.perFacilitator,
-#           obj.crossoverFacilitators, sep=', ')
-
-# print(time)
-
-# print(Facilitators)

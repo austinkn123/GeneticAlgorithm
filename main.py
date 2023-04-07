@@ -1,6 +1,6 @@
 import createLists
 import firstRandSchedules
-import fitnessFunction
+import fitness
 import random
 
 # Set the seed value
@@ -16,9 +16,11 @@ rand_activity_list = firstRandSchedules.generate(activityList, roomList, timeLis
 # for obj in rand_activity_list:
 #     print(obj.activityName, obj.room, obj.time, obj.facilitator, obj.fitness, sep=', ')
 
-
-rand_activity_list = fitnessFunction.facilitator_score(rand_activity_list, activityList)
-rand_activity_list = fitnessFunction.room_score(rand_activity_list, activityList, roomList)
+# Find the fitness of the random list
+rand_activity_list = fitness.facilitator_choice_score(rand_activity_list, activityList)
+rand_activity_list = fitness.room_score(rand_activity_list, activityList, roomList)
+rand_activity_list = fitness.facilitator_load_score(rand_activity_list)
+rand_activity_list = fitness.activity_adjustment(rand_activity_list)
 
 
 for obj in rand_activity_list:
