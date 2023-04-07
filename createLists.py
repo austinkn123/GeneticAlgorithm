@@ -21,7 +21,7 @@ activityList.append(activity("SLA100A", 50, [
     "Glen", "Lock", "Banks", "Zeldin", "Other"], ["Numen", "Richards"]))
 activityList.append(activity("SLA100B", 50, [
     "Glen", "Lock", "Banks", "Zeldin", "Other"], ["Numen", "Richards"]))
-activityList.append(activity("SLA191A / SLA191B", 50, [
+activityList.append(activity("SLA191A", 50, [
     "Glen", "Lock", "Banks", "Zeldin", "Other"], ["Numen", "Richards"]))
 activityList.append(activity("SLA191B", 50, [
     "Glen", "Lock", "Banks", "Zeldin", "Other"], ["Numen", "Richards"]))

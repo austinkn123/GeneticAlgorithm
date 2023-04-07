@@ -132,5 +132,11 @@ def activity_adjustment(rand_activity_list):
             if timeDiff == 1:
                 rand_activity_list[i].fitness += .5
                 rand_activity_list[i + 1].fitness += .5
-                    
     return rand_activity_list
+
+def fitness_score(rand_activity_list):
+    fitness_sum = 0
+    # for the random list
+    for activity in rand_activity_list:
+         fitness_sum += activity.fitness
+    return fitness_sum

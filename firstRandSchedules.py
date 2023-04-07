@@ -1,4 +1,3 @@
-import createLists
 import random
 
 class offcialActivity:
