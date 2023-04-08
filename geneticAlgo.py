@@ -31,7 +31,7 @@ def crossover(list, activityList, roomList, timeList, Facilitators):
         random_mutation = random.randint(0, 100)
         random_number2 = 1 if random_number1 == 0 else 0
         if random_mutation <= 20:
-            mutation(activityList, roomList, timeList, Facilitators)
+            childList.append(mutation(activityList, roomList, timeList, Facilitators))
         else:
             childList.append(offcialActivity(
                 list[random_number1].activityName, list[random_number1].room, list[random_number2].time, list[random_number2].facilitator, 0))
