@@ -24,13 +24,10 @@ def selection(list, num_parents):
 def crossover(list, activityList, roomList, timeList, Facilitators):
     childList = []
     while len(list) > 0:
-        first_two = list[:2]
-        # for obj in first_two:
-        #     print(obj.activityName, obj.room, obj.time, obj.facilitator, obj.fitness, sep=', ')
-        random_number1 = random.randint(0, 1)
         random_mutation = random.randint(0, 100)
+        random_number1 = random.randint(0, 1)
         random_number2 = 1 if random_number1 == 0 else 0
-        if random_mutation <= 20:
+        if random_mutation == 1:
             childList.append(mutation(activityList, roomList, timeList, Facilitators))
         else:
             childList.append(offcialActivity(

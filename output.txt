@@ -1,0 +1,1162 @@
+Activity Number: 1
+Actvity Name: SLA304
+Activtiy Room: Slater 003
+Activity Time:10
+Activity Facilitator: Glen
+Activity Fitness: 2.150000000000004
+ ------------------------
+Activity Number: 2
+Actvity Name: SLA449
+Activtiy Room: Roman 216
+Activity Time:3
+Activity Facilitator: Glen
+Activity Fitness: 8.850000000000003
+ ------------------------
+Activity Number: 3
+Actvity Name: SLA100B
+Activtiy Room: Beach 301
+Activity Time:11
+Activity Facilitator: Lock
+Activity Fitness: 15.700000000000003
+ ------------------------
+Activity Number: 4
+Actvity Name: SLA100A
+Activtiy Room: Roman 216
+Activity Time:12
+Activity Facilitator: Zeldin
+Activity Fitness: 7.050000000000004
+ ------------------------
+Activity Number: 5
+Actvity Name: SLA304
+Activtiy Room: Loft 310
+Activity Time:11
+Activity Facilitator: Glen
+Activity Fitness: 4.200000000000001
+ ------------------------
+Activity Number: 6
+Actvity Name: SLA191A
+Activtiy Room: Slater 003
+Activity Time:10
+Activity Facilitator: Numen
+Activity Fitness: 71.60000000000001
+ ------------------------
+Activity Number: 7
+Actvity Name: SLA304
+Activtiy Room: Beach 201
+Activity Time:10
+Activity Facilitator: Numen
+Activity Fitness: 8.650000000000002
+ ------------------------
+Activity Number: 8
+Actvity Name: SLA304
+Activtiy Room: Slater 003
+Activity Time:2
+Activity Facilitator: Glen
+Activity Fitness: 8.25
+ ------------------------
+Activity Number: 9
+Actvity Name: SLA394
+Activtiy Room: Roman 216
+Activity Time:12
+Activity Facilitator: Numen
+Activity Fitness: 4.850000000000004
+ ------------------------
+Activity Number: 10
+Actvity Name: SLA100B
+Activtiy Room: Frank 119
+Activity Time:1
+Activity Facilitator: Singer
+Activity Fitness: 13.950000000000005
+ ------------------------
+Activity Number: 11
+Actvity Name: SLA201
+Activtiy Room: Beach 201
+Activity Time:3
+Activity Facilitator: Richard
+Activity Fitness: 7.250000000000002
+ ------------------------
+Activity Number: 12
+Actvity Name: SLA304
+Activtiy Room: Logos 325
+Activity Time:3
+Activity Facilitator: Lock
+Activity Fitness: 8.55
+ ------------------------
+Activity Number: 13
+Actvity Name: SLA394
+Activtiy Room: Slater 003
+Activity Time:10
+Activity Facilitator: Singer
+Activity Fitness: 1.350000000000004
+ ------------------------
+Activity Number: 14
+Actvity Name: SLA191A
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Uther
+Activity Fitness: 71.1
+ ------------------------
+Activity Number: 15
+Actvity Name: SLA191A
+Activtiy Room: Roman 216
+Activity Time:10
+Activity Facilitator: Zeldin
+Activity Fitness: 78.0
+ ------------------------
+Activity Number: 16
+Actvity Name: SLA304
+Activtiy Room: Roman 201
+Activity Time:10
+Activity Facilitator: Numen
+Activity Fitness: 4.650000000000003
+ ------------------------
+Activity Number: 17
+Actvity Name: SLA191B
+Activtiy Room: Roman 201
+Activity Time:10
+Activity Facilitator: Singer
+Activity Fitness: 17.500000000000004
+ ------------------------
+Activity Number: 18
+Actvity Name: SLA100B
+Activtiy Room: Logos 325
+Activity Time:11
+Activity Facilitator: Shaw
+Activity Fitness: 16.800000000000004
+ ------------------------
+Activity Number: 19
+Actvity Name: SLA304
+Activtiy Room: Roman 216
+Activity Time:1
+Activity Facilitator: Shaw
+Activity Fitness: 10.750000000000002
+ ------------------------
+Activity Number: 20
+Actvity Name: SLA451
+Activtiy Room: Roman 216
+Activity Time:11
+Activity Facilitator: Shaw
+Activity Fitness: 5.100000000000002
+ ------------------------
+Activity Number: 21
+Actvity Name: SLA191A
+Activtiy Room: Frank 119
+Activity Time:11
+Activity Facilitator: Tyler
+Activity Fitness: 53.5
+ ------------------------
+Activity Number: 22
+Actvity Name: SLA100A
+Activtiy Room: Loft 206
+Activity Time:12
+Activity Facilitator: Tyler
+Activity Fitness: 5.650000000000002
+ ------------------------
+Activity Number: 23
+Actvity Name: SLA291
+Activtiy Room: Loft 310
+Activity Time:1
+Activity Facilitator: Lock
+Activity Fitness: 12.150000000000002
+ ------------------------
+Activity Number: 24
+Actvity Name: SLA304
+Activtiy Room: Roman 201
+Activity Time:1
+Activity Facilitator: Numen
+Activity Fitness: 9.850000000000003
+ ------------------------
+Activity Number: 25
+Actvity Name: SLA304
+Activtiy Room: Frank 119
+Activity Time:12
+Activity Facilitator: Glen
+Activity Fitness: 6.250000000000002
+ ------------------------
+Activity Number: 26
+Actvity Name: SLA191A
+Activtiy Room: Loft 206
+Activity Time:1
+Activity Facilitator: Glen
+Activity Fitness: 64.6
+ ------------------------
+Activity Number: 27
+Actvity Name: SLA394
+Activtiy Room: Slater 003
+Activity Time:1
+Activity Facilitator: Uther
+Activity Fitness: 9.550000000000002
+ ------------------------
+Activity Number: 28
+Actvity Name: SLA451
+Activtiy Room: Frank 119
+Activity Time:3
+Activity Facilitator: Richard
+Activity Fitness: 4.450000000000005
+ ------------------------
+Activity Number: 29
+Actvity Name: SLA291
+Activtiy Room: Slater 003
+Activity Time:3
+Activity Facilitator: Banks
+Activity Fitness: 11.05
+ ------------------------
+Activity Number: 30
+Actvity Name: SLA449
+Activtiy Room: Frank 119
+Activity Time:11
+Activity Facilitator: Singer
+Activity Fitness: 2.3000000000000034
+ ------------------------
+Activity Number: 31
+Actvity Name: SLA304
+Activtiy Room: Slater 003
+Activity Time:10
+Activity Facilitator: Uther
+Activity Fitness: 3.2500000000000044
+ ------------------------
+Activity Number: 32
+Actvity Name: SLA191B
+Activtiy Room: Roman 216
+Activity Time:12
+Activity Facilitator: Lock
+Activity Fitness: 17.200000000000003
+ ------------------------
+Activity Number: 33
+Actvity Name: SLA191B
+Activtiy Room: Logos 325
+Activity Time:10
+Activity Facilitator: Singer
+Activity Fitness: 17.500000000000004
+ ------------------------
+Activity Number: 34
+Actvity Name: SLA201
+Activtiy Room: Loft 310
+Activity Time:10
+Activity Facilitator: Zeldin
+Activity Fitness: 9.550000000000004
+ ------------------------
+Activity Number: 35
+Actvity Name: SLA201
+Activtiy Room: Slater 003
+Activity Time:3
+Activity Facilitator: Uther
+Activity Fitness: 11.050000000000002
+ ------------------------
+Activity Number: 36
+Actvity Name: SLA191B
+Activtiy Room: Slater 003
+Activity Time:1
+Activity Facilitator: Richard
+Activity Fitness: 11.700000000000003
+ ------------------------
+Activity Number: 37
+Actvity Name: SLA304
+Activtiy Room: Logos 325
+Activity Time:11
+Activity Facilitator: Singer
+Activity Fitness: 4.5000000000000036
+ ------------------------
+Activity Number: 38
+Actvity Name: SLA191B
+Activtiy Room: Logos 325
+Activity Time:3
+Activity Facilitator: Uther
+Activity Fitness: 20.6
+ ------------------------
+Activity Number: 39
+Actvity Name: SLA191A
+Activtiy Room: Beach 201
+Activity Time:12
+Activity Facilitator: Lock
+Activity Fitness: 80.0
+ ------------------------
+Activity Number: 40
+Actvity Name: SLA291
+Activtiy Room: Logos 325
+Activity Time:11
+Activity Facilitator: Tyler
+Activity Fitness: 3.300000000000002
+ ------------------------
+Activity Number: 41
+Actvity Name: SLA394
+Activtiy Room: Loft 310
+Activity Time:12
+Activity Facilitator: Banks
+Activity Fitness: 2.650000000000003
+ ------------------------
+Activity Number: 42
+Actvity Name: SLA191A
+Activtiy Room: Frank 119
+Activity Time:12
+Activity Facilitator: Lock
+Activity Fitness: 27.55
+ ------------------------
+Activity Number: 43
+Actvity Name: SLA191A
+Activtiy Room: Loft 310
+Activity Time:10
+Activity Facilitator: Zeldin
+Activity Fitness: 26.65
+ ------------------------
+Activity Number: 44
+Actvity Name: SLA191A
+Activtiy Room: Loft 206
+Activity Time:10
+Activity Facilitator: Tyler
+Activity Fitness: 25.15
+ ------------------------
+Activity Number: 45
+Actvity Name: SLA191A
+Activtiy Room: Loft 310
+Activity Time:12
+Activity Facilitator: Tyler
+Activity Fitness: 27.05
+ ------------------------
+Activity Number: 46
+Actvity Name: SLA191A
+Activtiy Room: Roman 216
+Activity Time:12
+Activity Facilitator: Richard
+Activity Fitness: 24.65
+ ------------------------
+Activity Number: 47
+Actvity Name: SLA191A
+Activtiy Room: Logos 325
+Activity Time:10
+Activity Facilitator: Tyler
+Activity Fitness: 23.65
+ ------------------------
+Activity Number: 48
+Actvity Name: SLA191A
+Activtiy Room: Loft 206
+Activity Time:10
+Activity Facilitator: Numen
+Activity Fitness: 25.65
+ ------------------------
+Activity Number: 49
+Actvity Name: SLA191A
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Numen
+Activity Fitness: 14.3
+ ------------------------
+Activity Number: 50
+Actvity Name: SLA191A
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Zeldin
+Activity Fitness: 14.6
+ ------------------------
+Activity Number: 51
+Actvity Name: SLA191A
+Activtiy Room: Frank 119
+Activity Time:3
+Activity Facilitator: Lock
+Activity Fitness: 14.7
+ ------------------------
+Activity Number: 52
+Actvity Name: SLA191A
+Activtiy Room: Logos 325
+Activity Time:1
+Activity Facilitator: Numen
+Activity Fitness: 11.6
+ ------------------------
+Activity Number: 53
+Actvity Name: SLA191A
+Activtiy Room: Loft 206
+Activity Time:1
+Activity Facilitator: Tyler
+Activity Fitness: 11.8
+ ------------------------
+Activity Number: 54
+Actvity Name: SLA191A
+Activtiy Room: Roman 201
+Activity Time:1
+Activity Facilitator: Shaw
+Activity Fitness: 11.899999999999999
+ ------------------------
+Activity Number: 55
+Actvity Name: SLA191A
+Activtiy Room: Beach 201
+Activity Time:11
+Activity Facilitator: Shaw
+Activity Fitness: 22.6
+ ------------------------
+Activity Number: 56
+Actvity Name: SLA191A
+Activtiy Room: Beach 201
+Activity Time:11
+Activity Facilitator: Lock
+Activity Fitness: 22.4
+ ------------------------
+Activity Number: 57
+Actvity Name: SLA191A
+Activtiy Room: Frank 119
+Activity Time:2
+Activity Facilitator: Uther
+Activity Fitness: 7.5
+ ------------------------
+Activity Number: 58
+Actvity Name: SLA191A
+Activtiy Room: Beach 201
+Activity Time:2
+Activity Facilitator: Tyler
+Activity Fitness: 8.399999999999999
+ ------------------------
+Activity Number: 59
+Actvity Name: SLA191A
+Activtiy Room: Frank 119
+Activity Time:2
+Activity Facilitator: Zeldin
+Activity Fitness: 9.7
+ ------------------------
+Activity Number: 60
+Actvity Name: SLA191A
+Activtiy Room: Roman 216
+Activity Time:2
+Activity Facilitator: Banks
+Activity Fitness: 8.3
+ ------------------------
+Activity Number: 61
+Actvity Name: SLA191B
+Activtiy Room: Roman 201
+Activity Time:2
+Activity Facilitator: Numen
+Activity Fitness: 5.6499999999999995
+ ------------------------
+Activity Number: 62
+Actvity Name: SLA100A
+Activtiy Room: Logos 325
+Activity Time:1
+Activity Facilitator: Singer
+Activity Fitness: 4.15
+ ------------------------
+Activity Number: 63
+Actvity Name: SLA100A
+Activtiy Room: Beach 201
+Activity Time:3
+Activity Facilitator: Numen
+Activity Fitness: 5.05
+ ------------------------
+Activity Number: 64
+Actvity Name: SLA100A
+Activtiy Room: Beach 201
+Activity Time:1
+Activity Facilitator: Numen
+Activity Fitness: 4.35
+ ------------------------
+Activity Number: 65
+Actvity Name: SLA100A
+Activtiy Room: Beach 201
+Activity Time:2
+Activity Facilitator: Tyler
+Activity Fitness: 4.8999999999999995
+ ------------------------
+Activity Number: 66
+Actvity Name: SLA100A
+Activtiy Room: Logos 325
+Activity Time:1
+Activity Facilitator: Tyler
+Activity Fitness: 2.5500000000000007
+ ------------------------
+Activity Number: 67
+Actvity Name: SLA100A
+Activtiy Room: Loft 206
+Activity Time:1
+Activity Facilitator: Numen
+Activity Fitness: 5.35
+ ------------------------
+Activity Number: 68
+Actvity Name: SLA100A
+Activtiy Room: Logos 325
+Activity Time:3
+Activity Facilitator: Banks
+Activity Fitness: 2.95
+ ------------------------
+Activity Number: 69
+Actvity Name: SLA100A
+Activtiy Room: Logos 325
+Activity Time:12
+Activity Facilitator: Numen
+Activity Fitness: 7.449999999999999
+ ------------------------
+Activity Number: 70
+Actvity Name: SLA191B
+Activtiy Room: Slater 003
+Activity Time:3
+Activity Facilitator: Richard
+Activity Fitness: 3.0000000000000004
+ ------------------------
+Activity Number: 71
+Actvity Name: SLA100A
+Activtiy Room: Slater 003
+Activity Time:10
+Activity Facilitator: Numen
+Activity Fitness: 6.85
+ ------------------------
+Activity Number: 72
+Actvity Name: SLA191B
+Activtiy Room: Logos 325
+Activity Time:12
+Activity Facilitator: Zeldin
+Activity Fitness: 11.25
+ ------------------------
+Activity Number: 73
+Actvity Name: SLA100B
+Activtiy Room: Beach 301
+Activity Time:12
+Activity Facilitator: Singer
+Activity Fitness: 10.05
+ ------------------------
+Activity Number: 74
+Actvity Name: SLA100A
+Activtiy Room: Beach 301
+Activity Time:3
+Activity Facilitator: Lock
+Activity Fitness: 3.45
+ ------------------------
+Activity Number: 75
+Actvity Name: SLA191B
+Activtiy Room: Frank 119
+Activity Time:10
+Activity Facilitator: Lock
+Activity Fitness: 10.05
+ ------------------------
+Activity Number: 76
+Actvity Name: SLA100B
+Activtiy Room: Logos 325
+Activity Time:11
+Activity Facilitator: Singer
+Activity Fitness: 9.05
+ ------------------------
+Activity Number: 77
+Actvity Name: SLA100A
+Activtiy Room: Loft 310
+Activity Time:2
+Activity Facilitator: Numen
+Activity Fitness: 5.9
+ ------------------------
+Activity Number: 78
+Actvity Name: SLA191B
+Activtiy Room: Loft 206
+Activity Time:11
+Activity Facilitator: Uther
+Activity Fitness: 8.5
+ ------------------------
+Activity Number: 79
+Actvity Name: SLA100A
+Activtiy Room: Beach 201
+Activity Time:3
+Activity Facilitator: Tyler
+Activity Fitness: 4.1499999999999995
+ ------------------------
+Activity Number: 80
+Actvity Name: SLA191B
+Activtiy Room: Beach 301
+Activity Time:2
+Activity Facilitator: Numen
+Activity Fitness: 5.6499999999999995
+ ------------------------
+Activity Number: 81
+Actvity Name: SLA100A
+Activtiy Room: Beach 201
+Activity Time:2
+Activity Facilitator: Zeldin
+Activity Fitness: 5.7
+ ------------------------
+Activity Number: 82
+Actvity Name: SLA100B
+Activtiy Room: Frank 119
+Activity Time:10
+Activity Facilitator: Singer
+Activity Fitness: 8.75
+ ------------------------
+Activity Number: 83
+Actvity Name: SLA191B
+Activtiy Room: Beach 301
+Activity Time:3
+Activity Facilitator: Zeldin
+Activity Fitness: 7.6
+ ------------------------
+Activity Number: 84
+Actvity Name: SLA100B
+Activtiy Room: Beach 201
+Activity Time:10
+Activity Facilitator: Glen
+Activity Fitness: 8.35
+ ------------------------
+Activity Number: 85
+Actvity Name: SLA100B
+Activtiy Room: Loft 206
+Activity Time:3
+Activity Facilitator: Zeldin
+Activity Fitness: 4.3500000000000005
+ ------------------------
+Activity Number: 86
+Actvity Name: SLA100B
+Activtiy Room: Slater 003
+Activity Time:1
+Activity Facilitator: Zeldin
+Activity Fitness: 2.65
+ ------------------------
+Activity Number: 87
+Actvity Name: SLA100B
+Activtiy Room: Loft 310
+Activity Time:11
+Activity Facilitator: Glen
+Activity Fitness: 8.35
+ ------------------------
+Activity Number: 88
+Actvity Name: SLA191B
+Activtiy Room: Logos 325
+Activity Time:10
+Activity Facilitator: Singer
+Activity Fitness: 7.75
+ ------------------------
+Activity Number: 89
+Actvity Name: SLA191B
+Activtiy Room: Roman 216
+Activity Time:3
+Activity Facilitator: Richard
+Activity Fitness: 4.5
+ ------------------------
+Activity Number: 90
+Actvity Name: SLA100B
+Activtiy Room: Logos 325
+Activity Time:2
+Activity Facilitator: Lock
+Activity Fitness: 1.9000000000000004
+ ------------------------
+Activity Number: 91
+Actvity Name: SLA191B
+Activtiy Room: Slater 003
+Activity Time:12
+Activity Facilitator: Shaw
+Activity Fitness: 10.05
+ ------------------------
+Activity Number: 92
+Actvity Name: SLA100B
+Activtiy Room: Logos 325
+Activity Time:10
+Activity Facilitator: Singer
+Activity Fitness: 7.25
+ ------------------------
+Activity Number: 93
+Actvity Name: SLA191B
+Activtiy Room: Loft 310
+Activity Time:10
+Activity Facilitator: Numen
+Activity Fitness: 9.65
+ ------------------------
+Activity Number: 94
+Actvity Name: SLA100B
+Activtiy Room: Beach 201
+Activity Time:12
+Activity Facilitator: Zeldin
+Activity Fitness: 10.75
+ ------------------------
+Activity Number: 95
+Actvity Name: SLA191B
+Activtiy Room: Beach 201
+Activity Time:12
+Activity Facilitator: Uther
+Activity Fitness: 8.75
+ ------------------------
+Activity Number: 96
+Actvity Name: SLA191B
+Activtiy Room: Roman 201
+Activity Time:1
+Activity Facilitator: Numen
+Activity Fitness: 6.1
+ ------------------------
+Activity Number: 97
+Actvity Name: SLA100B
+Activtiy Room: Roman 216
+Activity Time:12
+Activity Facilitator: Banks
+Activity Fitness: 7.55
+ ------------------------
+Activity Number: 98
+Actvity Name: SLA191B
+Activtiy Room: Loft 206
+Activity Time:11
+Activity Facilitator: Lock
+Activity Fitness: 9.9
+ ------------------------
+Activity Number: 99
+Actvity Name: SLA191B
+Activtiy Room: Frank 119
+Activity Time:11
+Activity Facilitator: Richard
+Activity Fitness: 8.8
+ ------------------------
+Activity Number: 100
+Actvity Name: SLA394
+Activtiy Room: Slater 003
+Activity Time:11
+Activity Facilitator: Tyler
+Activity Fitness: 4.25
+ ------------------------
+Activity Number: 101
+Actvity Name: SLA100A
+Activtiy Room: Beach 301
+Activity Time:11
+Activity Facilitator: Numen
+Activity Fitness: 8.350000000000001
+ ------------------------
+Activity Number: 102
+Actvity Name: SLA191B
+Activtiy Room: Loft 310
+Activity Time:2
+Activity Facilitator: Singer
+Activity Fitness: 3.8499999999999996
+ ------------------------
+Activity Number: 103
+Actvity Name: SLA449
+Activtiy Room: Beach 201
+Activity Time:1
+Activity Facilitator: Singer
+Activity Fitness: 2.75
+ ------------------------
+Activity Number: 104
+Actvity Name: SLA201
+Activtiy Room: Beach 301
+Activity Time:11
+Activity Facilitator: Richard
+Activity Fitness: 1.5499999999999998
+ ------------------------
+Activity Number: 105
+Actvity Name: SLA100B
+Activtiy Room: Slater 003
+Activity Time:3
+Activity Facilitator: Shaw
+Activity Fitness: -0.2499999999999991
+ ------------------------
+Activity Number: 106
+Actvity Name: SLA191B
+Activtiy Room: Roman 201
+Activity Time:11
+Activity Facilitator: Tyler
+Activity Fitness: 9.9
+ ------------------------
+Activity Number: 107
+Actvity Name: SLA451
+Activtiy Room: Frank 119
+Activity Time:2
+Activity Facilitator: Numen
+Activity Fitness: 1.7999999999999998
+ ------------------------
+Activity Number: 108
+Actvity Name: SLA451
+Activtiy Room: Frank 119
+Activity Time:3
+Activity Facilitator: Numen
+Activity Fitness: 2.9499999999999997
+ ------------------------
+Activity Number: 109
+Actvity Name: SLA100B
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Singer
+Activity Fitness: -0.6499999999999995
+ ------------------------
+Activity Number: 110
+Actvity Name: SLA201
+Activtiy Room: Loft 310
+Activity Time:2
+Activity Facilitator: Lock
+Activity Fitness: 1.7999999999999998
+ ------------------------
+Activity Number: 111
+Actvity Name: SLA394
+Activtiy Room: Roman 201
+Activity Time:10
+Activity Facilitator: Shaw
+Activity Fitness: 3.9499999999999997
+ ------------------------
+Activity Number: 112
+Actvity Name: SLA100B
+Activtiy Room: Slater 003
+Activity Time:2
+Activity Facilitator: Singer
+Activity Fitness: 0.7999999999999998
+ ------------------------
+Activity Number: 113
+Actvity Name: SLA303
+Activtiy Room: Logos 325
+Activity Time:3
+Activity Facilitator: Singer
+Activity Fitness: 1.65
+ ------------------------
+Activity Number: 114
+Actvity Name: SLA291
+Activtiy Room: Loft 310
+Activity Time:1
+Activity Facilitator: Zeldin
+Activity Fitness: 3.45
+ ------------------------
+Activity Number: 115
+Actvity Name: SLA394
+Activtiy Room: Roman 216
+Activity Time:1
+Activity Facilitator: Lock
+Activity Fitness: 3.45
+ ------------------------
+Activity Number: 116
+Actvity Name: SLA201
+Activtiy Room: Roman 201
+Activity Time:11
+Activity Facilitator: Banks
+Activity Fitness: 2.35
+ ------------------------
+Activity Number: 117
+Actvity Name: SLA291
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Singer
+Activity Fitness: 0.4500000000000002
+ ------------------------
+Activity Number: 118
+Actvity Name: SLA394
+Activtiy Room: Roman 201
+Activity Time:1
+Activity Facilitator: Richard
+Activity Fitness: 1.0499999999999998
+ ------------------------
+Activity Number: 119
+Actvity Name: SLA100B
+Activtiy Room: Logos 325
+Activity Time:3
+Activity Facilitator: Shaw
+Activity Fitness: 1.0499999999999998
+ ------------------------
+Activity Number: 120
+Actvity Name: SLA449
+Activtiy Room: Loft 310
+Activity Time:1
+Activity Facilitator: Numen
+Activity Fitness: 2.05
+ ------------------------
+Activity Number: 121
+Actvity Name: SLA291
+Activtiy Room: Beach 301
+Activity Time:1
+Activity Facilitator: Zeldin
+Activity Fitness: 3.95
+ ------------------------
+Activity Number: 122
+Actvity Name: SLA304
+Activtiy Room: Beach 301
+Activity Time:2
+Activity Facilitator: Zeldin
+Activity Fitness: 3.3999999999999995
+ ------------------------
+Activity Number: 123
+Actvity Name: SLA191B
+Activtiy Room: Logos 325
+Activity Time:1
+Activity Facilitator: Zeldin
+Activity Fitness: 6.199999999999999
+ ------------------------
+Activity Number: 124
+Actvity Name: SLA303
+Activtiy Room: Beach 201
+Activity Time:3
+Activity Facilitator: Shaw
+Activity Fitness: 1.8499999999999996
+ ------------------------
+Activity Number: 125
+Actvity Name: SLA201
+Activtiy Room: Slater 003
+Activity Time:3
+Activity Facilitator: Banks
+Activity Fitness: -0.34999999999999964
+ ------------------------
+Activity Number: 126
+Actvity Name: SLA304
+Activtiy Room: Roman 216
+Activity Time:1
+Activity Facilitator: Richard
+Activity Fitness: 2.05
+ ------------------------
+Activity Number: 127
+Actvity Name: SLA449
+Activtiy Room: Slater 003
+Activity Time:1
+Activity Facilitator: Zeldin
+Activity Fitness: 2.8499999999999996
+ ------------------------
+Activity Number: 128
+Actvity Name: SLA304
+Activtiy Room: Beach 201
+Activity Time:1
+Activity Facilitator: Glen
+Activity Fitness: 0.95
+ ------------------------
+Activity Number: 129
+Actvity Name: SLA191B
+Activtiy Room: Slater 003
+Activity Time:1
+Activity Facilitator: Shaw
+Activity Fitness: 5.1
+ ------------------------
+Activity Number: 130
+Actvity Name: SLA100B
+Activtiy Room: Loft 206
+Activity Time:1
+Activity Facilitator: Banks
+Activity Fitness: 1.85
+ ------------------------
+Activity Number: 131
+Actvity Name: SLA451
+Activtiy Room: Roman 216
+Activity Time:10
+Activity Facilitator: Zeldin
+Activity Fitness: 5.050000000000001
+ ------------------------
+Activity Number: 132
+Actvity Name: SLA394
+Activtiy Room: Beach 301
+Activity Time:3
+Activity Facilitator: Zeldin
+Activity Fitness: 3.05
+ ------------------------
+Activity Number: 133
+Actvity Name: SLA304
+Activtiy Room: Slater 003
+Activity Time:3
+Activity Facilitator: Singer
+Activity Fitness: 1.15
+ ------------------------
+Activity Number: 134
+Actvity Name: SLA201
+Activtiy Room: Beach 201
+Activity Time:1
+Activity Facilitator: Tyler
+Activity Fitness: 0.5499999999999998
+ ------------------------
+Activity Number: 135
+Actvity Name: SLA291
+Activtiy Room: Frank 119
+Activity Time:1
+Activity Facilitator: Uther
+Activity Fitness: 1.3499999999999999
+ ------------------------
+Activity Number: 136
+Actvity Name: SLA291
+Activtiy Room: Logos 325
+Activity Time:1
+Activity Facilitator: Tyler
+Activity Fitness: 0.3500000000000003
+ ------------------------
+Activity Number: 137
+Actvity Name: SLA451
+Activtiy Room: Beach 301
+Activity Time:1
+Activity Facilitator: Shaw
+Activity Fitness: 1.9499999999999997
+ ------------------------
+Activity Number: 138
+Actvity Name: SLA100B
+Activtiy Room: Frank 119
+Activity Time:1
+Activity Facilitator: Tyler
+Activity Fitness: 1.0499999999999998
+ ------------------------
+Activity Number: 139
+Actvity Name: SLA304
+Activtiy Room: Roman 201
+Activity Time:1
+Activity Facilitator: Numen
+Activity Fitness: 2.3499999999999996
+ ------------------------
+Activity Number: 140
+Actvity Name: SLA304
+Activtiy Room: Roman 201
+Activity Time:3
+Activity Facilitator: Uther
+Activity Fitness: 2.05
+ ------------------------
+Activity Number: 141
+Actvity Name: SLA304
+Activtiy Room: Beach 301
+Activity Time:1
+Activity Facilitator: Shaw
+Activity Fitness: 2.45
+ ------------------------
+Activity Number: 142
+Actvity Name: SLA303
+Activtiy Room: Frank 119
+Activity Time:1
+Activity Facilitator: Zeldin
+Activity Fitness: 3.95
+ ------------------------
+Activity Number: 143
+Actvity Name: SLA304
+Activtiy Room: Beach 201
+Activity Time:3
+Activity Facilitator: Glen
+Activity Fitness: 0.95
+ ------------------------
+Activity Number: 144
+Actvity Name: SLA201
+Activtiy Room: Loft 310
+Activity Time:1
+Activity Facilitator: Uther
+Activity Fitness: 0.8499999999999999
+ ------------------------
+Activity Number: 145
+Actvity Name: SLA100A
+Activtiy Room: Loft 206
+Activity Time:2
+Activity Facilitator: Shaw
+Activity Fitness: 4.3
+ ------------------------
+Activity Number: 146
+Actvity Name: SLA191B
+Activtiy Room: Beach 201
+Activity Time:1
+Activity Facilitator: Glen
+Activity Fitness: 4.7
+ ------------------------
+Activity Number: 147
+Actvity Name: SLA304
+Activtiy Room: Loft 206
+Activity Time:2
+Activity Facilitator: Singer
+Activity Fitness: 1.4
+ ------------------------
+Activity Number: 148
+Actvity Name: SLA201
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Zeldin
+Activity Fitness: 1.85
+ ------------------------
+Activity Number: 149
+Actvity Name: SLA201
+Activtiy Room: Roman 216
+Activity Time:3
+Activity Facilitator: Lock
+Activity Fitness: 0.5499999999999998
+ ------------------------
+Activity Number: 150
+Actvity Name: SLA451
+Activtiy Room: Slater 003
+Activity Time:3
+Activity Facilitator: Glen
+Activity Fitness: -0.9499999999999997
+ ------------------------
+Activity Number: 151
+Actvity Name: SLA451
+Activtiy Room: Loft 310
+Activity Time:12
+Activity Facilitator: Zeldin
+Activity Fitness: 4.95
+ ------------------------
+Activity Number: 152
+Actvity Name: SLA449
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Tyler
+Activity Fitness: 1.25
+ ------------------------
+Activity Number: 153
+Actvity Name: SLA394
+Activtiy Room: Logos 325
+Activity Time:10
+Activity Facilitator: Numen
+Activity Fitness: 2.3499999999999996
+ ------------------------
+Activity Number: 154
+Actvity Name: SLA201
+Activtiy Room: Beach 201
+Activity Time:2
+Activity Facilitator: Singer
+Activity Fitness: 1.4
+ ------------------------
+Activity Number: 155
+Actvity Name: SLA304
+Activtiy Room: Loft 310
+Activity Time:10
+Activity Facilitator: Shaw
+Activity Fitness: 2.75
+ ------------------------
+Activity Number: 156
+Actvity Name: SLA201
+Activtiy Room: Roman 201
+Activity Time:12
+Activity Facilitator: Zeldin
+Activity Fitness: 5.750000000000001
+ ------------------------
+Activity Number: 157
+Actvity Name: SLA394
+Activtiy Room: Roman 201
+Activity Time:2
+Activity Facilitator: Shaw
+Activity Fitness: 2.3
+ ------------------------
+Activity Number: 158
+Actvity Name: SLA303
+Activtiy Room: Loft 310
+Activity Time:3
+Activity Facilitator: Lock
+Activity Fitness: -1.15
+ ------------------------
+Activity Number: 159
+Actvity Name: SLA201
+Activtiy Room: Loft 206
+Activity Time:12
+Activity Facilitator: Numen
+Activity Fitness: 5.450000000000001
+ ------------------------
+Activity Number: 160
+Actvity Name: SLA449
+Activtiy Room: Beach 201
+Activity Time:10
+Activity Facilitator: Zeldin
+Activity Fitness: 5.350000000000001
+ ------------------------
+Activity Number: 161
+Actvity Name: SLA304
+Activtiy Room: Slater 003
+Activity Time:2
+Activity Facilitator: Zeldin
+Activity Fitness: 3.3999999999999995
+ ------------------------
+Activity Number: 162
+Actvity Name: SLA201
+Activtiy Room: Loft 206
+Activity Time:2
+Activity Facilitator: Zeldin
+Activity Fitness: 2.7
+ ------------------------
+Activity Number: 163
+Actvity Name: SLA304
+Activtiy Room: Logos 325
+Activity Time:2
+Activity Facilitator: Zeldin
+Activity Fitness: 2.9
+ ------------------------
+Activity Number: 164
+Actvity Name: SLA449
+Activtiy Room: Roman 201
+Activity Time:3
+Activity Facilitator: Lock
+Activity Fitness: 0.5499999999999998
+ ------------------------
+Activity Number: 165
+Actvity Name: SLA449
+Activtiy Room: Loft 310
+Activity Time:1
+Activity Facilitator: Tyler
+Activity Fitness: 1.65
+ ------------------------
+Activity Number: 166
+Actvity Name: SLA451
+Activtiy Room: Loft 206
+Activity Time:2
+Activity Facilitator: Shaw
+Activity Fitness: 1.0999999999999996
+ ------------------------

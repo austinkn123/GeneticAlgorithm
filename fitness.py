@@ -134,9 +134,12 @@ def activity_adjustment(rand_activity_list):
                 rand_activity_list[i + 1].fitness += .5
     return rand_activity_list
 
-def fitness_score(rand_activity_list):
+def fitness_score_total(rand_activity_list):
     fitness_sum = 0
     # for the random list
     for activity in rand_activity_list:
          fitness_sum += activity.fitness
     return fitness_sum
+
+def fitness_score_avg(fitness_score_total, rand_activity_list):
+    return fitness_score_total / len(rand_activity_list)
